@@ -1,20 +1,20 @@
-# Welcome
+# 欢迎来到《Python for Data Science》
 
 [![DOI](https://zenodo.org/badge/496994611.svg)](https://zenodo.org/doi/10.5281/zenodo.10518241)  ![GitHub Release](https://img.shields.io/github/v/release/aeturrell/python4DS)
 
-This is the website for **Python for Data Science**, a book heavily inspired by the excellent [**R for Data Science (2e)**](https://r4ds.hadley.nz/). This book will teach you how to load up, transform, visualise, and begin to understand your data. The book aims to give you the skills you need to code for data science. It's suitable for people who have some familiarity with the ideas behind programming and coding but who don't yet know how to do data science.
+这是[《Python for Data Science》](https://aeturrell.github.io/python4DS/welcome.html)的中文翻译网站。本书深度借鉴了经典著作[《R for Data Science (第二版)》](https://r4ds.hadley.nz/)，将系统传授数据加载、转换、可视化及初步分析的核心技能。本书致力于培养数据科学领域的编程实战能力，适合具备基础编程概念但尚未掌握数据科学方法论的读者群体。
 
-This book teaches you how to do data science using one of the world's most popular programming languages, Python. While Python is a general purpose language, which means it is used for a wide range of tasks, it is also the most widely used language for data science (although note that both SQL and R are also used for data science).
+本书采用全球最流行的编程语言之一——Python，作为数据科学实践的教学工具。作为通用型编程语言，Python不仅适用于多样化的任务场景，更是数据科学领域的主流技术栈（尽管SQL和R语言在该领域也有广泛应用）。
 
-To begin your data science journey, head to the next page.
+请点击下一页，即刻启程您的数据科学之旅。
 
-## Contributors to Python4DS
+## Python4DS 贡献者名录
 
-Contributing is very much encouraged. If you're looking for content to implement or tweak, we aim to follow the structure and content of **R for Data Science (2e)** and you can find open [issues here](https://github.com/aeturrell/python4DS/issues). For larger contributions of content, it's probably best to check with other contributors first.
+我们热忱欢迎社区贡献。若您希望参与内容完善或优化，建议参考[《R for Data Science (第二版)》](https://r4ds.hadley.nz/)的知识体系架构。待解决的开发任务可通过[问题列表](https://github.com/aeturrell/python4DS/issues)获取。对于重大内容贡献，建议提前与项目组成员沟通协调。
 
-We thank the following contributors:
+特别鸣谢以下贡献者：
 
-- [Arthur Turrell](https://aeturrell.com/), who has also contributed to [*Coding for Economists*](https://aeturrell.github.io/coding-for-economists) and wrote popular non-fiction book [*The Star Builders*](https://aeturrell.com/thestarbuilders/thestarbuilders.html)
+- [Arthur Turrell](https://aeturrell.com/)，《Coding for Economists》合著者及科普畅销书《The Star Builders》作者
 - [Pietro Monticone](https://github.com/pitmonticone)
 - [Antonio Mele](https://github.com/meleantonio)
 - [Igor Alshannikov](https://github.com/alshan)
