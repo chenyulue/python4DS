@@ -1,0 +1,15 @@
+// Data science workflow
+digraph {
+	compound=true
+	Import -> Clean
+	subgraph cluster_0 {
+		node [color=white style=filled]
+		color=lightgrey style=filled
+		Visualise -> Analyse
+		Analyse -> Transform
+		Transform -> Visualise
+		label=Understand
+	}
+	Clean -> Analyse [lhead=cluster_0]
+	Analyse -> Communicate [ltail=cluster_0]
+}
